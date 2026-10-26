@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 int main(){
+    cout << "m = 7; n = 9" << endl;
     int m = 7, n = 9;
     int a = m + --n;
     m = 7, n = 9;
